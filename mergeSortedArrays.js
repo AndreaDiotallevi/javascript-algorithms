@@ -21,3 +21,5 @@ function mergeSortedArrays(left, right) {
 
   return mergedArray;
 }
+
+module.exports = mergeSortedArrays;
